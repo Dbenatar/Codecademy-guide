@@ -1,0 +1,92 @@
+ @import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Romanesco&family=Rouge+Script&display=swap');
+
+h1 {
+    background-color: rgb(0,  34, 68);
+    color: #A5ACAF;
+}
+#style h1 {
+    padding: 3rem;
+    text-align: center;
+    text-decoration: underline double;
+}
+body {
+    background-color: antiquewhite
+}
+
+h2 {
+text-decoration: underline;
+color: rgb(0,  34, 68);
+
+}
+
+.color {
+    display:inline-block;
+    margin: 100px;
+    padding: 5px 15px;
+}
+#navy {
+    background-color:rgb(0,  34, 68);
+    color:#A5ACAF;
+    border: 50px solid rgb(0,  34, 68);
+    border-radius: 10px;
+}
+#green {
+    background-color: rgb(105 , 190, 40);
+    color: rgb(0,  34, 68);
+    border: 50px solid rgb(105, 190, 40);
+    border-radius: 10px;
+}
+#gray {
+    background-color:#A5ACAF;
+    color: rgb(0,  34, 68);
+    border: 50px solid #A5ACAF;
+    border-radius: 10px;
+}
+h3  {
+    font-size: 30px;
+    font-family: romanesco ; 
+}
+h4 {
+    Font-size:30px;
+    font-family: gideon roman;
+}
+h5 {
+    font-size: 35px;
+    font-family: rouge script;
+}
+
+#romanesco {
+    font-size: 25px;
+    font-family: romanesco;
+}
+#gideon {
+    font-size: 25px;
+    font-family: gideon roman;
+}
+#rouge {
+    font-size: 25px;
+    font-family: rouge script;
+}
+nav {
+    font-size:30px;
+    display: block;
+    padding:18px;
+    margin: 10px;
+    background-color: rgb(0,  34, 68);
+    color: #A5ACAF;
+    border-radius: 200px;
+}
+nav a {
+    text-decoration: none;
+}
+nav a:hover {
+    background-color: rgb(105 , 190, 40);
+    color:rgb(0,  34, 68);
+    display:inline;
+    padding:18px;
+    margin: 10px;
+    border-radius: 200px;
+}
+a {
+    color:#A5ACAF;
+}
